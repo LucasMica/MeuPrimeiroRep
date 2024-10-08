@@ -5,5 +5,7 @@ public class Teste {
         System.out.println("E olá cidade!"); //segundo commit
 
         System.out.println("Olá Canela"); //primeiro commit na branch
+
+        System.out.println("Olá editor!") //mudança feita pelo github
     }
 }
