@@ -6,6 +6,6 @@ public class Teste {
 
         System.out.println("Olá Canela"); //primeiro commit na branch
 
-        System.out.println("Olá editor!") //mudança feita pelo github
+        System.out.println("Olá editor!"); //mudança feita pelo github
     }
 }
